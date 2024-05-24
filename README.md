@@ -18,7 +18,7 @@ Voici une liste des projets disponibles dans ce dépôt :
 2. **Analyse Prédictive des Risques Cardiaques : Heart Attack**
    - **Description**: Ce projet implique le développement de modèles prédictifs pour évaluer les risques cardiaques à partir de données cliniques. L'objectif est d'identifier les facteurs de risque significatifs et de prédire la probabilité d'événements cardiaques chez les patients.
    - **Technologies utilisées**: Python, numpy, seaborn, matplotlib, sklearn, xgboost, warnings, plotly
-   - **Lien vers le projet**: [Voir le Notebook](Heart_Attack.ipynb)
+   - **Lien vers le projet**: [Voir le Notebook](heart_attack_model_prediction.ipynb)
 
 3. **Arbres de décisions**
    - **Description**: Ce projet explore l'utilisation d'arbres de décision pour classer et prédire des données catégorielles. Le focus est mis sur l'analyse de la performance des modèles et l'ajustement des paramètres pour optimiser la précision et la généralisabilité.
