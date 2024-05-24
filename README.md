@@ -8,10 +8,10 @@ L'objectif de ce dépôt est de partager les résultats de mes travaux académiq
 ## Projets Inclus
 Voici une liste des projets disponibles dans ce dépôt :
 
-1. **Nom du Projet 1**
-   - **Description**: Courte description du projet.
-   - **Technologies utilisées**: Python, Pandas, Scikit-Learn, etc.
-   - **Lien vers le projet**: [Lien GitHub]
+1. **Data Visualization and EDA**
+   - **Description**: Développement de visualisations interactives pour l'analyse exploratoire des données afin d'aider à comprendre les tendances, les anomalies et les patterns dans les données complexes.
+   - **Technologies utilisées**: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly pour des visualisations interactives...
+   - **Lien vers le projet**: https://github.com/PaulMakon/Projets-scolaires/
 
 2. **Nom du Projet 2**
    - **Description**: Courte description du projet.
