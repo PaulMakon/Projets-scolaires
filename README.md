@@ -74,4 +74,18 @@ Voici une liste des projets disponibles dans ce dépôt :
    - **Description**: Ce projet explore diverses techniques de traitement de texte pour l'analyse de sentiments et la catégorisation automatique de documents. Les méthodes incluent le prétraitement des données textuelles, l'extraction de caractéristiques et l'utilisation de modèles de machine learning pour l'analyse sentimentale.
    - **Technologies utilisées**: sentences transformers, pandas, bs4, re, tensorflow, keras
    - **Lien vers le projet**: [Voir le Notebook](Analyse_sentiments.ipynb)
-  
+
+14. **Apprentissage non supervisé : Clustering avec K-means**
+   - **Description**: Ce projet explore l'utilisation de l'algorithme K-means, une méthode de clustering largement utilisée en apprentissage non supervisé. Le notebook détaille le processus de segmentation d'un ensemble de données en utilisant K-means pour identifier des groupes ou clusters naturellement formés.
+   - **Technologies utilisées**: sentences transformers, pandas, bs4, re, tensorflow, keras
+   - **Lien vers le projet**: [Voir le Notebook]()
+
+13. **Analyse de sentiments avec le Deep Learning**
+   - **Description**: Ce projet explore diverses techniques de traitement de texte pour l'analyse de sentiments et la catégorisation automatique de documents. Les méthodes incluent le prétraitement des données textuelles, l'extraction de caractéristiques et l'utilisation de modèles de machine learning pour l'analyse sentimentale.
+   - **Technologies utilisées**: sentences transformers, pandas, bs4, re, tensorflow, keras
+   - **Lien vers le projet**: [Voir le Notebook](Analyse_sentiments.ipynb)
+
+13. **Analyse de sentiments avec le Deep Learning**
+   - **Description**: Ce projet explore diverses techniques de traitement de texte pour l'analyse de sentiments et la catégorisation automatique de documents. Les méthodes incluent le prétraitement des données textuelles, l'extraction de caractéristiques et l'utilisation de modèles de machine learning pour l'analyse sentimentale.
+   - **Technologies utilisées**: sentences transformers, pandas, bs4, re, tensorflow, keras
+   - **Lien vers le projet**: [Voir le Notebook](Analyse_sentiments.ipynb)
