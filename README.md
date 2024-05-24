@@ -1,4 +1,6 @@
-# Projets Scolaires FEUDJIO Paul Junior
+# Projets Scolaires FEUDJIO MAKON Paul Junior
+[Visitez mon profil LinKedin](https://www.linkedin.com/in/paul-junior-f-39a748296/)
+
 
 Ce dépôt contient une sélection de mes projets scolaires réalisés durant mes études en management de l'IA. Les projets couvrent divers aspects tels que data science, machine learning, bases de données, illustrant mes compétences techniques et mon approche de la résolution de problèmes
 
@@ -14,21 +16,62 @@ Voici une liste des projets disponibles dans ce dépôt :
    - **Lien vers le projet**: [Voir le Notebook](Data_Visualization_and_EDA.ipynb)
 
 2. **Analyse Prédictive des Risques Cardiaques : Heart Attack**
-   - **Description**: Ce projet implique le développement de modèles prédictifs pour évaluer les risques cardiaques à partir de données cliniques. L'objectif est d'identifier les facteurs de risque significatifs et de prédire la probabilité d'événements cardiaques chez les patients..
+   - **Description**: Ce projet implique le développement de modèles prédictifs pour évaluer les risques cardiaques à partir de données cliniques. L'objectif est d'identifier les facteurs de risque significatifs et de prédire la probabilité d'événements cardiaques chez les patients.
    - **Technologies utilisées**: Python, numpy, seaborn, matplotlib, sklearn, xgboost, warnings, plotly
    - **Lien vers le projet**: [Voir le Notebook](Heart_Attack.ipynb)
 
-2. **Heart Attack**
-   - **Description**: Courte description du projet.
-   - **Technologies utilisées**: HTML, CSS, JavaScript, etc.
-   - **Lien vers le projet**: [Lien GitHub]
+3. **Arbres de décisions**
+   - **Description**: Ce projet explore l'utilisation d'arbres de décision pour classer et prédire des données catégorielles. Le focus est mis sur l'analyse de la performance des modèles et l'ajustement des paramètres pour optimiser la précision et la généralisabilité.
+   - **Technologies utilisées**: Python, numpy, seaborn, matplotlib, sklearn, xgboost, plotly, graphviz, os
+   - **Lien vers le projet**: [Voir le Notebook](decision_trees_lab.ipynb)
   
-2. **Heart Attack**
-   - **Description**: Courte description du projet.
-   - **Technologies utilisées**: HTML, CSS, JavaScript, etc.
-   - **Lien vers le projet**: [Lien GitHub]
+4. **Réduction de Dimensionnalité des images : Dimensionality reduction**
+   - **Description**: Application de techniques de réduction de dimensionnalité, telles que PCA et t-SNE, pour simplifier les modèles de données tout en préservant les informations essentielles.
+   - **Technologies utilisées**: Python, numpy, seaborn, matplotlib, sklearn, xgboost, plotly
+   - **Lien vers le projet**: [Voir le Notebook](dimensionality_reduction_lab.ipynb)
 
-2. **Heart Attack**
+5. **OPtimisation du temps d'attente des patients aux urgences : Fil Rouge**
+   - **Description**: Analyse approfondie des facteurs favorisant la durée d'attente des patients aux urgences en utilisant des données cliniques, avec l'objectif de développer des stratégies prédictives basées sur des preuves.
+   - **Technologies utilisées**: Python, numpy, seaborn, matplotlib, sklearn, xgboost, plotly, statsmodels, math
+   - **Lien vers le projet**: [Voir le Notebook](fil_rouge.ipynb)
+
+6. **Gestion des Données Déséquilibrées : Imbalanced data**
+   - **Description**: Exploration de stratégies pour gérer les déséquilibres dans les jeux de données, en se concentrant sur les techniques de rééchantillonnage et les modèles de machine learning ajustés pour améliorer la classification des minorités.
+   - **Technologies utilisées**: Python, numpy, seaborn, matplotlib, sklearn, xgboost, plotly, imblearn, time
+   - **Lien vers le projet**: [Voir le Notebook](imbalanced_data_lab.ipynb)
+  
+7. **Gestion des Données manquantes : Managing missing data**
+   - **Description**: Techniques avancées pour gérer les données manquantes dans de grands ensembles de données, y compris l'imputation, l'analyse de la sensibilité, et l'évaluation de l'impact des données manquantes sur les performances du modèle.
+   - **Technologies utilisées**: Python, numpy, seaborn, matplotlib, sklearn, xgboost, plotly
+   - **Lien vers le projet**: [Voir le Notebook](managing_missing_data_lab.ipynb)
+  
+8. **Réseaux Neuronaux et Deep Learning : Neural networks**
+   - **Description**: Conception et entraînement de réseaux neuronaux pour aborder des problèmes complexes comme la classification d'images et la prédiction de séries temporelles.
+   - **Technologies utilisées**: pandas, numpy, matplotlib, seaborn, time, keras
+   - **Lien vers le projet**: [Voir le Notebook](neural_networks_lab.ipynb)
+  
+9. **Modélisation de regression : Regression**
+   - **Description**: Application de techniques de régression pour modéliser et prédire des variables continues en fonction de plusieurs variables indépendantes, en mettant l'accent sur la validation des modèles et l'interprétation des résultats.
+   - **Technologies utilisées**: pandas, numpy, matplotlib, seaborn, time, sklearn
+   - **Lien vers le projet**: [Voir le Notebook](regression.ipynb)
+  
+10. **Classification supervisée : Supervised classification**
+   - **Description**: Utilisation de diverses techniques de classification supervisée pour prédire les variables cibles basées sur des caractéristiques observées. Ce projet inclut l'application de réseaux neuronaux, SVM, et d'autres algorithmes sur des jeux de données diversifiés.
+   - **Technologies utilisées**: Python, Scikit-learn, Keras, TensorFlow, Pandas, NumPy, matplotlib, seaborn, time
+   - **Lien vers le projet**: [Voir le Notebook](supervised_classification_lab.ipynb)
+  
+11. **Compréhension des données : Understanding data**
+   - **Description**: Ce travail se concentre sur la compréhension et la manipulation de grands ensembles de données, y compris la gestion des données manquantes, la normalisation, et les techniques d'exploration de données pour tirer des insights pertinents.
+   - **Technologies utilisées**: Python, Pandas, Matplotlib, Seaborn, sklearn.
+   - **Lien vers le projet**: [Voir le Notebook](understanding_data_lab.ipynb)
+  
+12. **Traitement et analyse de texte : Working with text**
+   - **Description**: Ce projet explore diverses techniques de traitement de texte pour l'analyse de sentiments et la catégorisation automatique de documents. Les méthodes incluent le prétraitement des données textuelles et l'extraction de caractéristiques.
+   - **Technologies utilisées**:Python, NLTK, Scikit-learn, TensorFlow (pour les modèles de deep learning).
+   - **Lien vers le projet**: [Voir le Notebook](working_with_text_lab.ipynb)
+  
+13. **Heart Attack**
    - **Description**: Courte description du projet.
    - **Technologies utilisées**: HTML, CSS, JavaScript, etc.
-   - **Lien vers le projet**: [Lien GitHub]
+   - **Lien vers le projet**: [Voir le Notebook](decision_trees.ipynb)
+  
