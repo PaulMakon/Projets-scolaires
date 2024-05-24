@@ -77,15 +77,15 @@ Voici une liste des projets disponibles dans ce dépôt :
 
 14. **Apprentissage non supervisé : Clustering avec K-means**
    - **Description**: Ce projet explore l'utilisation de l'algorithme K-means, une méthode de clustering largement utilisée en apprentissage non supervisé. Le notebook détaille le processus de segmentation d'un ensemble de données en utilisant K-means pour identifier des groupes ou clusters naturellement formés.
-   - **Technologies utilisées**: sentences transformers, pandas, bs4, re, tensorflow, keras
-   - **Lien vers le projet**: [Voir le Notebook]()
+   - **Technologies utilisées**: Python, sklearn, matplotlib, pandas, math
+   - **Lien vers le projet**: [Voir le Notebook](unsupervised_learning_clustering_K_means.ipynb)
 
-13. **Analyse de sentiments avec le Deep Learning**
-   - **Description**: Ce projet explore diverses techniques de traitement de texte pour l'analyse de sentiments et la catégorisation automatique de documents. Les méthodes incluent le prétraitement des données textuelles, l'extraction de caractéristiques et l'utilisation de modèles de machine learning pour l'analyse sentimentale.
-   - **Technologies utilisées**: sentences transformers, pandas, bs4, re, tensorflow, keras
-   - **Lien vers le projet**: [Voir le Notebook](Analyse_sentiments.ipynb)
+13. **Démonstration de Deep Learning : Deep Learning demo**
+   - **Description**: Ce notebook offre une démonstration concise des capacités du deep learning. Il couvre la configuration, l'entraînement et la validation de modèles de deep learning sur des jeux de données standards, illustrant comment ces modèles peuvent être utilisés pour prédire des résultats complexes.
+   - **Technologies utilisées**: TensorFlow, Keras, numpy, pandas, matplotlib, seaborn, sklearn
+   - **Lien vers le projet**: [Voir le Notebook](deep_learning_demo.ipynb)
 
-13. **Analyse de sentiments avec le Deep Learning**
-   - **Description**: Ce projet explore diverses techniques de traitement de texte pour l'analyse de sentiments et la catégorisation automatique de documents. Les méthodes incluent le prétraitement des données textuelles, l'extraction de caractéristiques et l'utilisation de modèles de machine learning pour l'analyse sentimentale.
-   - **Technologies utilisées**: sentences transformers, pandas, bs4, re, tensorflow, keras
+13. **Vision par Ordinateur et Réseaux de Neurones Convolutifs (CNN) : Computer Vision**
+   - **Description**: Ce projet se concentre sur l'application des réseaux de neurones convolutifs (CNN), une technique de deep learning, dans le domaine de la vision par ordinateur. Le notebook traite des aspects fondamentaux des CNN et de leur utilisation pour la classification d'images, incluant la préparation des données, la construction du modèle, et l'évaluation des performances.
+   - **Technologies utilisées**: TensorFlow, Keras, matplotlib, PIL
    - **Lien vers le projet**: [Voir le Notebook](Analyse_sentiments.ipynb)
