@@ -66,12 +66,12 @@ Voici une liste des projets disponibles dans ce dépôt :
    - **Lien vers le projet**: [Voir le Notebook](understanding_data_lab.ipynb)
   
 12. **Traitement et analyse de texte : Working with text**
-   - **Description**: Ce projet explore diverses techniques de traitement de texte pour l'analyse de sentiments et la catégorisation automatique de documents. Les méthodes incluent le prétraitement des données textuelles et l'extraction de caractéristiques.
+   - **Description**: Ce projet explore diverses techniques de traitement de texte et la catégorisation automatique de documents. Les méthodes incluent le prétraitement des données textuelles et l'extraction de caractéristiques.
    - **Technologies utilisées**:Python, NLTK, Scikit-learn, TensorFlow (pour les modèles de deep learning).
    - **Lien vers le projet**: [Voir le Notebook](working_with_text_lab.ipynb)
   
-13. **Heart Attack**
-   - **Description**: Courte description du projet.
-   - **Technologies utilisées**: HTML, CSS, JavaScript, etc.
-   - **Lien vers le projet**: [Voir le Notebook](decision_trees.ipynb)
+13. **Analyse de sentiments avec le Deep Learning**
+   - **Description**: Ce projet explore diverses techniques de traitement de texte pour l'analyse de sentiments et la catégorisation automatique de documents. Les méthodes incluent le prétraitement des données textuelles, l'extraction de caractéristiques et l'utilisation de modèles de machine learning pour l'analyse sentimentale.
+   - **Technologies utilisées**: sentences transformers, pandas, bs4, re, tensorflow, keras
+   - **Lien vers le projet**: [Voir le Notebook](Analyse_sentiments.ipynb)
   
