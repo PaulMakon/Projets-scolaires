@@ -88,4 +88,4 @@ Voici une liste des projets disponibles dans ce dépôt :
 13. **Vision par Ordinateur et Réseaux de Neurones Convolutifs (CNN) : Computer Vision**
    - **Description**: Ce projet se concentre sur l'application des réseaux de neurones convolutifs (CNN), une technique de deep learning, dans le domaine de la vision par ordinateur. Le notebook traite des aspects fondamentaux des CNN et de leur utilisation pour la classification d'images, incluant la préparation des données, la construction du modèle, et l'évaluation des performances.
    - **Technologies utilisées**: TensorFlow, Keras, matplotlib, PIL
-   - **Lien vers le projet**: [Voir le Notebook](Analyse_sentiments.ipynb)
+   - **Lien vers le projet**: [Voir le Notebook](Computer_Vision_and_CNN.ipynb)
