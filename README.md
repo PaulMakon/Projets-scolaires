@@ -1,7 +1,7 @@
-# Projets Scolaires FEUDJIO MAKON Paul Junior
-   +33783179494
-   juniormakon@outlook.fr
-   [Visitez mon profil LinKedin](https://www.linkedin.com/in/paul-junior-f-39a748296/)
+# Projets Scolaires FEUDJIO MAKON Paul Junior   
+## N° Tel: +33783179494
+## juniormakon@outlook.fr
+## [Visitez mon profil LinKedin](https://www.linkedin.com/in/paul-junior-f-39a748296/)
 
 
 Ce dépôt contient une sélection de mes projets scolaires réalisés durant mes études en management de l'IA. Les projets couvrent divers aspects tels que data science, machine learning, bases de données, illustrant mes compétences techniques et mon approche de la résolution de problèmes
