@@ -92,7 +92,7 @@ Voici une liste des projets disponibles dans ce dépôt :
    - **Technologies utilisées**: TensorFlow, Keras, matplotlib, PIL
    - **Lien vers le projet**: [Voir le Notebook](Computer_Vision_and_CNN.ipynb)
 
-14. ** Analyse et gestion de base de données avec SQL**
+14. **Analyse et gestion de base de données avec SQL**
     - **Description** : Ce projet de base de données a été conçu pour gérer et stocker efficacement les informations médicales, y compris les patients et les traitements dans un hôpital fictif. La structure de la base de données comprend plusieurs tables clés conçues pour optimiser les opérations et faciliter les requêtes complexes et l'analyse des données. Je vais ici montrer les images de la base de données et de quelques requêtes écrites avec les résultats.
     -  **Technologies utilisées**: MySQL, PostgreSQL, SQL, PHPMyAdmin
     -  [Base de données](BD_image.png), [Requête N°1](Requête_1.png), [Requête N°2](Requête_2.png), [Requête N°3](Requête_3.png)
