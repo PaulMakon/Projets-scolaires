@@ -11,7 +11,7 @@ Voici une liste des projets disponibles dans ce dépôt :
 1. **Data Visualization and EDA**
    - **Description**: Développement de visualisations interactives pour l'analyse exploratoire des données afin d'aider à comprendre les tendances, les anomalies et les patterns dans les données complexes.
    - **Technologies utilisées**: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly pour des visualisations interactives...
-   - **Lien vers le projet**: https://github.com/PaulMakon/Projets-scolaires/
+   - **Lien vers le projet**: [Voir le Notebook](Data_Visualization_and_EDA.ipynb)
 
 2. **Nom du Projet 2**
    - **Description**: Courte description du projet.
