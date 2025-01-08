@@ -1,4 +1,4 @@
-# Projets Scolaires FEUDJIO MAKON Paul Junior   
+# Projets Paul Junior FEUDJIO MAKON   
 ## N° Tel: +33783179494
 ## juniormakon@outlook.fr
 ## [Visitez mon profil LinKedin](https://www.linkedin.com/in/paul-junior-f-39a748296/)
